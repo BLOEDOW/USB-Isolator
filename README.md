@@ -10,7 +10,8 @@ Shop: [USB-Isolator](http://www.watterott.com/en/USB-Isolator)
 * USB 2.0 compatible (high and low speed switchable via jumper)
 * Built-in DC-DC converter (up to 400mA output current on host side)
 * Based on Analog Devices ADuM3160
-
+* USB-Device: microUSB
+* USB-Host: USB-A
 
 ## Hardware
 * [Schematics + Layout](https://github.com/watterott/USB-Isolator/tree/master/pcb)
