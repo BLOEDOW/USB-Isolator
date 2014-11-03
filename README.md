@@ -11,6 +11,7 @@ Shop: [USB-Isolator](http://www.watterott.com/en/USB-Isolator)
 * High Speed (12 Mbps) and Low Speed (1.5 Mbps) switchable via soldering Jumper
 * Built-in DC-DC converter (up to 400mA output current on Host side)
 * Based on Analog Devices ADuM3160
+* Suitable Enclosure: [Teko SOAP 1 10006/2](http://www.watterott.com/en/Teko-SOAP1-10006-2-5)
 * USB-Device: microUSB
 * USB-Host: USB-A
 
