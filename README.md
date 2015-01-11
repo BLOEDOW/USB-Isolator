@@ -3,7 +3,7 @@ USB port isolator based on an [Analog Devices ADuM3160](http://www.analog.com/en
 
 Shop: [USB-Isolator](http://www.watterott.com/en/USB-Isolator)
 
-[![USB-Isolator](https://raw.github.com/watterott/USB-Isolator/master/img/usb-isolator.jpg)](http://www.watterott.com/en/USB-Isolator)
+[![USB-Isolator](https://raw.github.com/watterott/USB-Isolator/master/pcb/USB-Isolator_v10.jpg)](http://www.watterott.com/en/USB-Isolator)
 
 
 ## Features
