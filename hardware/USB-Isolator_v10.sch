@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.6.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -8746,10 +8746,10 @@ all kinds in 0603</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="FRAME-A4L" prefix="FRAME" uservalue="yes">
+<deviceset name="FRAME-A4L" prefix="FRAME">
 <description>Frame: DIN A4 Landscape</description>
 <gates>
-<gate name="G$1" symbol="A4L-LOC" x="0" y="0"/>
+<gate name="F" symbol="A4L-LOC" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -9347,7 +9347,7 @@ Option 2: RU=330, CU=100n</text>
 <attribute name="VALUE" x="157.48" y="130.81" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="J2" gate="J" x="228.6" y="127"/>
-<instance part="FRAME1" gate="G$1" x="0" y="0"/>
+<instance part="FRAME1" gate="F" x="0" y="0"/>
 <instance part="LOGO2" gate="G$1" x="198.12" y="7.62"/>
 <instance part="LOGO3" gate="G$1" x="208.28" y="7.62"/>
 <instance part="X1" gate="X" x="165.1" y="7.62"/>
