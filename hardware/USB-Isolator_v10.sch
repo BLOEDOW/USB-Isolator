@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -9253,7 +9253,7 @@ all kinds in 0603</description>
 <part name="LOGO3" library="we-symbol" deviceset="LOGO" device="-S_PLACE_M"/>
 <part name="X1" library="we-symbol" deviceset="PASSER" device="-07"/>
 <part name="X2" library="we-symbol" deviceset="PASSER" device="-07"/>
-<part name="L1" library="we-opto" deviceset="LED" device="-0603"/>
+<part name="L1" library="we-opto" deviceset="LED" device="-0603" value="red"/>
 <part name="R5" library="we-rcl" deviceset="RESISTOR" device="-R0603" value="1k"/>
 <part name="GND7" library="supply2" deviceset="GND1" device=""/>
 <part name="IC1" library="we-chip" deviceset="ADUM3160" device=""/>
