@@ -1,7 +1,7 @@
 # USB-Isolator
 USB port isolator based on an [Analog Devices ADuM3160](http://www.analog.com/en/interface-isolation/digital-isolators/adum3160/products/product.html) to protect computers against over-voltage spikes, ESD pulses and to avoid ground loops.
 
-[![USB-Isolator](https://github.com/watterott/USB-Isolator/raw/master/hardware/USB-Isolator_v10.jpg)](http://www.watterott.com/en/USB-Isolator)
+[![USB-Isolator](https://github.com/watterott/USB-Isolator/raw/master/hardware/USB-Isolator_v11.jpg)](http://www.watterott.com/en/USB-Isolator)
 
 
 ## Shop
